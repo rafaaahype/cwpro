@@ -1,0 +1,6 @@
+[submodule "script"]
+	path = script
+	url = https://github.com/rafaaahype/cwpro-scripts
+[submodule "core"]
+	path = core
+	url = https://github.com/rafaaahype/cwpro-core
